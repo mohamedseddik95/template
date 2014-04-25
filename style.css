@@ -14,7 +14,7 @@ header, main, footer {
 	
 }
 
-header, main h1 {
+header, main, h1, h2 {
 	color: Blue;
 }
 
@@ -75,6 +75,8 @@ article {
 	display: block;
 	float:right;
 	}
+	
+h1 	{text-align:center;}
 	
 	
 
