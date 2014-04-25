@@ -1,9 +1,12 @@
 body {
 	color: Black;
-	background-image:url('https://www.msu.edu/~mooreth6/pics/beaumont.jpg');
 	font-family:Courier;
 	width:960px;
 	margin:auto;
+}
+html { 
+  background: url(http://upload.wikimedia.org/wikipedia/commons/d/d4/MSU_Union.jpg) no-repeat fixed bottom ; 
+  background-size: auto;
 }
 
 
