@@ -4,9 +4,13 @@ body {
 	width:960px;
 	margin:auto;
 }
+
 html { 
-  background: url(https://www.msu.edu/~mooreth6/pics/beaumont.jpg) no-repeat ; 
-  background-size: auto;
+  background: url(https://www.msu.edu/~mooreth6/pics/beaumont.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 
